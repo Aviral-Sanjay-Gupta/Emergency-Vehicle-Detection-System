@@ -2,7 +2,7 @@
 
 **1. Overview**
 
-This repository contains the research paper and report for the implemented Emergency Vehicle Detection System. The project utilizes Python, OpenCV, CNN, TensorFlow, and Keras for real-time detection of emergency vehicles to aid in traffic management.
+This repository contains the research paper and report for the implemented Emergency Vehicle Detection System. The project utilizes Python, OpenCV, CNN, and TensorFlow for real-time detection of emergency vehicles to aid in traffic management.
 
 **2. Contents**
 
